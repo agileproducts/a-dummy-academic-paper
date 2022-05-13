@@ -28,8 +28,9 @@ The times and age-graded scores of the runner are given in [run-results.csv](/da
 
 ![Finishing time and age-graded score](/images/chart-2.png)
 
-
 ## Discussion
+
+Although a small upward trend in age-graded score over the study period is discernable, the subject's finishing times remain highly variable. The greatest period of improvement came after managing to do the run every week in January, the slowest time followed a period of injury in the early spring. The subject reports suffering from a persistent muscle injury in his right leg, but further data is needed to separate the impact of that from the impact of intermittent participation, hangovers, and generally not always feeling up to it.
 
 ## Bibliography
 
