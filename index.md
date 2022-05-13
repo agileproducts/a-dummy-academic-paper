@@ -24,6 +24,11 @@ The subject of the study began participating in his local parkrun in the autumn 
 
 ## Results
 
+The times and age-graded scores of the runner are given in [run-results.csv](/data/run-results.csv).
+
+![Finishing time and age-graded score](/images/chart-2.png)
+
+
 ## Discussion
 
 ## Bibliography
