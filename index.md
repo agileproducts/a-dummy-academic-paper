@@ -16,10 +16,11 @@ We studied the performance of a fortysomething man of limited atletic potential 
 
 ## Introduction
 
-Parkruns are free, weekly, community events all around the world. The runs are 5km long and take place on a Saturday morning in parks and open spaces [1]. Parkruns have been shown to have a postive impact on participants' health and wellbeing
-
+Parkruns are free, weekly, community events all around the world. The runs are 5km long and take place on a Saturday morning in parks and open spaces [1]. Parkruns have been shown to have a postive impact on participants' health and wellbeing, especially for male runners over 45 years of age.[2]
 
 ## Method
+
+The subject of the study began participating in his local parkrun in the autumn of 2021, shortly after the events resumed following the covid-19 pandemic. Runners sign up and receive a personalised bar code to print out. When they cross the line they are given a token with a different bar code. The two are scanned by a volunteer using a mobile device, and the finishing time of the runner is recorded on the parkrun website. The time is converted into a WMA age-grade score[3] based on the age and sex of the runner. The data from the subject's first 17 runs at his local event were downloaded from the website and studied. 
 
 ## Results
 
@@ -27,7 +28,11 @@ Parkruns are free, weekly, community events all around the world. The runs are 5
 
 ## Bibliography
 
-1. https://www.parkrun.org.uk
+1. [https://www.parkrun.org.uk](https://www.parkrun.org.uk)
 
 2. Grunseit, A., Richards, J. & Merom, D. Running on a high: parkrun and personal well-being. BMC Public Health **18**, 59 (2018). [https://doi.org/10.1186/s12889-017-4620-1](https://doi.org/10.1186/s12889-017-4620-1)
+
+3. [https://support.parkrun.com/hc/en-us/articles/200565263-What-is-age-grading-](https://support.parkrun.com/hc/en-us/articles/200565263-What-is-age-grading-)
+
+
 
