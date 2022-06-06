@@ -1,6 +1,12 @@
+#based on https://github.com/pandoc/pandoc-action-example
+
 name: Make PDF
 
 on: push
+
+defaults:
+  run:
+    working-directory: .
 
 jobs:
   convert_via_pandoc:
