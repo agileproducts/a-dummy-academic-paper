@@ -1,0 +1,3 @@
+#!/bin/zsh
+mkdir _output
+pandoc index.md -o _output/index.pdf --resource-path images

@@ -12,7 +12,7 @@ stephen.cornelius@springer.com
 
 We studied the performance of a fortysomething man of limited atletic potential in weekly 5km 'parkrun'. Although the subject reported that he enjoyed the events, we found little evidence of sustained improvement in finishing time or age-graded performance. Further studies as to the effect of alcohol, diet and injuries are required.
 
-![Resting after a run](/images/fig1.jpg)
+![Resting after a run](images/fig1.jpg)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ The subject of the study began participating in his local parkrun in the autumn 
 
 The times and age-graded scores of the runner are given in [run-results.csv](/data/run-results.csv).
 
-![Finishing time and age-graded score](/images/chart-2.png)
+![Finishing time and age-graded score](images/chart-2.png)
 
 ## Discussion
 
