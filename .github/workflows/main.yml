@@ -1,0 +1,23 @@
+name: Make PDF
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: create output folder
+        id: output_folder
+        run: |
+          mkdir _output  # create output dir
+
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: index.md --output=_output/index.pdf --resource-path images
+          
+      - uses: actions/upload-artifact@master
+        with:
+          name: _output
+          path: _output
